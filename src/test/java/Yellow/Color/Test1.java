@@ -30,6 +30,9 @@ public class Test1
 
 
 		System.out.println("Www2");
+		System.out.println("123");
+		System.out.println("124");
+		System.out.println("125");
 
 	}
 }
