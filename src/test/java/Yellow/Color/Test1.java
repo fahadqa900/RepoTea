@@ -22,5 +22,6 @@ public class Test1
 		password.sendKeys(pwd);
 		login.click();
 		System.out.println("Test1");
+		System.out.println("Test2");
 	}
 }
