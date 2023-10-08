@@ -21,5 +21,6 @@ public class Test1
 		username.sendKeys(uname);
 		password.sendKeys(pwd);
 		login.click();
+		System.out.println("Test1");
 	}
 }
