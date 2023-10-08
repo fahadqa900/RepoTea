@@ -27,5 +27,9 @@ public class Test1
 
 		System.out.println("Www1");
 
+
+
+		System.out.println("Www2");
+
 	}
 }
